@@ -1,2 +1,0 @@
-# ashleyportfoliowebsite
-My Portfolio Website!
